@@ -1,0 +1,1 @@
+{"$schema":"https://json.schemastore.org/claude-code-marketplace.json","name":"lhg-plugs","owner":{"name":"刘洪光"},"plugins":[{"description":"社媒运营专家：账号定位→内容日历→多平台分发策略→数据复盘（social-ops / positioning / calendar / review / audit）","name":"lhg-social-ops","source":"./"}]}

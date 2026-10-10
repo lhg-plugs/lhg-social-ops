@@ -1,0 +1,93 @@
+[
+ {
+  "id": "g1",
+  "platform": "xhs",
+  "published_at": "2026-10-01T20:00:00+08:00",
+  "text": "拆一家公司Q3财报：现金流里藏着三个信号，散户最容易忽略第二个。",
+  "hashtags": [
+   "财报",
+   "干货"
+  ],
+  "views": 5200,
+  "likes": 260,
+  "comments": 48,
+  "shares": 20,
+  "new_followers": 10
+ },
+ {
+  "id": "g2",
+  "platform": "xhs",
+  "published_at": "2026-10-03T12:00:00+08:00",
+  "text": "财报避坑指南：看到商誉这个数字变大，先别急着下结论。",
+  "hashtags": [
+   "财报",
+   "避坑",
+   "股票"
+  ],
+  "views": 3800,
+  "likes": 190,
+  "comments": 35,
+  "shares": 23,
+  "new_followers": 12
+ },
+ {
+  "id": "g3",
+  "platform": "dy",
+  "published_at": "2026-10-05T20:00:00+08:00",
+  "text": "读者问：现在的市场适合定投吗？我的看法是分三步看。",
+  "hashtags": [
+   "问答",
+   "市场"
+  ],
+  "views": 6100,
+  "likes": 320,
+  "comments": 60,
+  "shares": 26,
+  "new_followers": 14
+ },
+ {
+  "id": "g4",
+  "platform": "xhs",
+  "published_at": "2026-10-07T12:00:00+08:00",
+  "text": "一句话讲清：毛利率下滑，到底是坏事还是好事？",
+  "hashtags": [
+   "财报",
+   "基础"
+  ],
+  "views": 2900,
+  "likes": 150,
+  "comments": 28,
+  "shares": 29,
+  "new_followers": 16
+ },
+ {
+  "id": "g5",
+  "platform": "dy",
+  "published_at": "2026-10-09T10:00:00+08:00",
+  "text": "本周市场五个关键数字，帮你三分钟看懂大盘。",
+  "hashtags": [
+   "复盘",
+   "市场"
+  ],
+  "views": 4400,
+  "likes": 230,
+  "comments": 44,
+  "shares": 32,
+  "new_followers": 18
+ },
+ {
+  "id": "g6",
+  "platform": "dy",
+  "published_at": "2026-10-11T12:00:00+08:00",
+  "text": "短视频口播：教你一分钟看懂资产负债表。",
+  "hashtags": [
+   "财报",
+   "教程"
+  ],
+  "views": 7200,
+  "likes": 410,
+  "comments": 75,
+  "shares": 35,
+  "new_followers": 20
+ }
+]
